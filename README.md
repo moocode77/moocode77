@@ -33,7 +33,7 @@
 # 🌐 My Channel
 
 <p align="center">
-<a href="https://www.youtube.com/">
+<a href="https://www.youtube.com/@codewith_moo/">
 <img src="https://img.shields.io/badge/YouTube-Code%20with%20moo-red?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 </p>
